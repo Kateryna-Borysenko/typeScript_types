@@ -7,6 +7,8 @@
  *  - [type inference](https://www.typescriptlang.org/docs/handbook/type-inference.html)
  *  - Множественные типы с type composition
  */
+// статическая типизация это когда в языках програмирования в переменную можно записать только оприделённый тип
+//ts - это статический типилизатор который пока ты в разработки анализирует и показывает где у тебя могут быть проблемы
 
 let age: number = 5;
 const name: string = "mango";
