@@ -13,4 +13,14 @@ enum PizzaSize {
 
 console.log(PizzaSize.Small);
 
+//скампелируется в js
+
+// let PizzaSize;
+// (function (PizzaSize) {
+//     PizzaSize["Small"] = "s";
+//     PizzaSize["Medium"] = "m";
+//     PizzaSize["Large"] = "l";
+// })(PizzaSize || (PizzaSize = {}));
+
+
 export {};
