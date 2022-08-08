@@ -5,6 +5,8 @@
  *  - Кастомные значения
  */
 
+//инАм
+
 enum PizzaSize {
   Small = "s",
   Medium = "m",
