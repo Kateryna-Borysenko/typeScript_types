@@ -6,4 +6,4 @@
 // import "./06-functions";
 import "./07-classes";
 
-export {};
+export {}; //костылёк что бы не ругался "issolatedVodules":true
